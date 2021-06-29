@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.allenchenblog.cn"><img src="images/allen-zc header.png" alt="AllenChen's header"></a>
-</div>
+
 <br>
 
 <h3>Hi there! 👋😀<br>I'm Allen Chen<br>an I.T , Java Developer, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
@@ -29,7 +29,7 @@
 Web Bookstore:Founder and Developer  🚀 <em>coming soon</em><br>
 WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 </p>
-
+</div>
 
 
 ## 哈喽~我是AllenChen 🌱
@@ -51,4 +51,3 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 <a href="https://github.com/Allen-zc/Allen-zc.github.io.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=Allen-zc.github.io&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy "/></a><a href="https://github.com/Allen-zc/Allenchenblog.git"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=AllenChenBlog&show_owner=AllenChen&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy "/></a>
 
-</div>
