@@ -29,7 +29,7 @@
 Web Bookstore:Founder and Developer  🚀 <em>coming soon</em><br>
 WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 </p>
-</div>
+
 
 
 ## 哈喽~我是AllenChen 🌱
@@ -39,6 +39,10 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 - 🌱 技术分享|个人博客： <a href="https://allenchenblog.cn/" target="_blank">AllenChen's Blog</a>
 - 💬 微信：Oxygen-Allen
 - 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">@Allen</a>
+
+
+
+</div>
 
 
 ## 统计汇总 ✨
