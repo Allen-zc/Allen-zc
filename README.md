@@ -15,9 +15,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [JSD2105_SE 学习笔记](https://ajulusthoughts.stephenajulu.com/post/ajulu-s-thoughts-tech-stack/)
+[JSD2105_SE 学习笔记](https://ajulusthoughts.stephenajulu.com/post/ajulu-s-thoughts-tech-stack/)
 
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
 
@@ -34,11 +34,15 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 ## 哈喽~我是AllenChen 🌱
 
-- 👬 技能：JAVA、Python
-- 🏡 作品：<a href="https://github.com/Allen-zc" target="_blank">Github</a> | <a href="https://gitee.com/allen-zc" target="_blank">Gitee码云</a> | <a href="https://www.jianshu.com/u/429669e67910" target="_blank">简书</a> | <a href="https://https://blog.csdn.net/YIGE_Programmer" target="_blank">CSDN</a>| <a href="https://leetcode-cn.com/u/allenchenchen/" target="_blank">Leetcode</a> 
-- 🌱 技术分享|个人博客： <a href="https://allenchenblog.cn/" target="_blank">AllenChen's Blog</a>
-- 💬 微信：Oxygen-Allen
-- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">@Allen</a>
+👬 技能：JAVA、Python
+
+🏡 作品：<a href="https://github.com/Allen-zc" target="_blank">Github</a> | <a href="https://gitee.com/allen-zc" target="_blank">Gitee码云</a> | <a href="https://www.jianshu.com/u/429669e67910" target="_blank">简书</a> | <a href="https://https://blog.csdn.net/YIGE_Programmer" target="_blank">CSDN</a>| <a href="https://leetcode-cn.com/u/allenchenchen/" target="_blank">Leetcode</a> 
+
+🌱 技术分享|个人博客： <a href="https://allenchenblog.cn/" target="_blank">AllenChen's Blog</a>
+
+💬 微信：Oxygen-Allen
+
+🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">@Allen</a>
 
 
 
