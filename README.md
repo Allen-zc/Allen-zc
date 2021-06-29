@@ -1,9 +1,38 @@
 <div align="center">
   <a href="https://www.allenchenblog.cn"><img src="images/allen-zc header.png" alt="AllenChen's header"></a>
 </div>
+<br>
+
+<h3>Hi there! 👋😀<br>I'm Allen Chen<br>an I.T , Java Developer, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
+
+<h4> <a href="https://github.com/Allen-zc">Github</a> • <a href="https://gitee.com/allen-zc">Gitee</a> • <a href="https://www.allenchenblog.cn">AllenChen's Blog</a> • <a href="https://www.jianshu.com/u/429669e67910">简书</a> • <a href="https://https//blog.csdn.net/YIGE_Programmer">CSDN</a> • <a href="https://leetcode-cn.com/u/allenchenchen/">Leetcode</a> </h4>
+
+<a href="https://www.allenchenblog.cn"><img src="images/allen-zc.png" width="300"></a>
+
+<hr width="50%" style="height:5px;">
+
+<h3>📕 My Latest Articles, Podcasts and Videos</h3>
+
+<!-- BLOG-POST-LIST:START -->
+
+- [JSD2105_SE 学习笔记](https://ajulusthoughts.stephenajulu.com/post/ajulu-s-thoughts-tech-stack/)
+
+  <!-- BLOG-POST-LIST:END -->
+
+<h3>💼 What & Where I am currently working at/on/as</h3>
+
+<p>
+<a href="https://www.allenchenblog.cn">AllenChen's Blog: Founder and Developer 🏢</a><br>
+<a href="">E-commerce website：Founder and Developer 🏬</a><br>
+<a href="https://www.allenchenblog.cn">Open World: Freelance 🌐</a><br>
+<a href="https://www.allenchenblog.cn">Allen Chen's Personal Portfolio, Blog and Notes Website: Owner and Developer 🚀</a>...<br>
+Web Bookstore:Founder and Developer  🚀 <em>coming soon</em><br>
+WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
+</p>
 
 
-## 自我介绍 AllenChen 🌱
+
+## 哈喽~我是AllenChen 🌱
 
 - 👬 技能：JAVA、Python
 - 🏡 作品：<a href="https://github.com/Allen-zc" target="_blank">Github</a> | <a href="https://gitee.com/allen-zc" target="_blank">Gitee码云</a> | <a href="https://www.jianshu.com/u/429669e67910" target="_blank">简书</a> | <a href="https://https://blog.csdn.net/YIGE_Programmer" target="_blank">CSDN</a>| <a href="https://leetcode-cn.com/u/allenchenchen/" target="_blank">Leetcode</a> 
@@ -21,3 +50,5 @@
 ## 📓 我的项目
 
 <a href="https://github.com/Allen-zc/Allen-zc.github.io.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=Allen-zc.github.io&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy "/></a><a href="https://github.com/Allen-zc/Allenchenblog.git"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=AllenChenBlog&show_owner=AllenChen&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy "/></a>
+
+</div>
