@@ -15,7 +15,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-[JSD2105_SE 学习笔记](https://ajulusthoughts.stephenajulu.com/post/ajulu-s-thoughts-tech-stack/)
+[Java基础学习复习笔记整理](https://allenchenblog.cn/2021/05/31/java2021-05-31/)
 
 <!-- BLOG-POST-LIST:END -->
 
