@@ -5,7 +5,7 @@
 
 <h3>Hi there! 👋😀<br>I'm Allen Chen<br>an I.T , Java Developer, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
 
-<h4> <a href="https://github.com/Allen-zc">Github</a> • <a href="https://gitee.com/allen-zc">Gitee</a> • <a href="https://www.allenchenblog.cn">AllenChen's Blog</a> • <a href="https://www.jianshu.com/u/429669e67910">简书</a> • <a href="https://https//blog.csdn.net/YIGE_Programmer">CSDN</a> • <a href="https://leetcode-cn.com/u/allenchenchen/">Leetcode</a> </h4>
+<h4> <a href="https://github.com/Allen-zc">Github</a> • <a href="https://gitee.com/allen-zc">Gitee</a> • <a href="https://www.allenchenblog.cn">AllenChen's Blog</a> • <a href="https://www.jianshu.com/u/429669e67910">简书</a> • <a href="https://https//blog.csdn.net/YIGE_Programmer">CSDN</a> • <a href="https://leetcode-cn.com/u/allenchenchen/">Leetcode</a> </h4> 
 
 <a href="https://www.allenchenblog.cn"><img src="images/allen-zc.png" width="300"></a>
 
