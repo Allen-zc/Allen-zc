@@ -62,14 +62,16 @@
 
 ## 统计汇总 ✨
 
-<img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=Allen-zc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=outrun&locale=cn" /><img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-zc&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=outrun&locale=cn" />
-
+[//]: # (<img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=Allen-zc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=outrun&locale=cn" />)
+[//]: # (<img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-zc&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=outrun&locale=cn" />)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allen-zc&hide_title=true&show_icons=true&include_all_commits=true&locale=cn&line_height=17&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allen-zc&hide_title=true&line_height=17&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=outrun&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💼 项目推荐
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=ToBeTopFullStackDeveloper&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/ToBeTopFullStackDeveloper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=guide-rpc-framework&show_owner=Snailclimb&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy )](https://github.com/Allen-zc/guide-rpc-framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=ToBeTopFullStackDeveloper&show_owner=AllenChen&line_height=17&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/ToBeTopFullStackDeveloper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=guide-rpc-framework&show_owner=Snailclimb&line_height=17&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy )](https://github.com/Allen-zc/guide-rpc-framework)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=mall&show_owner=macrozheng&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/mall)
