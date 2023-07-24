@@ -34,7 +34,7 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 
 
-## 哈喽~我是一苇渡江(AllenChen) 🌱
+## 哈喽~我是Allen 🌱
 
 👬 技能：JAVA、Python
 
