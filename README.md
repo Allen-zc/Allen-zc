@@ -38,7 +38,7 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 ✨ 技能：Java、Python
 
-🌱 技术分享 | 博客主页： <a href="https://allen-zc.github.io/ToBeTopFullStackDeveloper/" target="_blank">To Be Top Full Stack Developer - 全栈工程师成神之路</a>
+🚀 技术分享 | 博客主页： <a href="https://allen-zc.github.io/ToBeTopFullStackDeveloper/" target="_blank">To Be Top Full Stack Developer - 全栈工程师成神之路</a>
 
 🏡 个人主页：
 <a href="https://github.com/Allen-zc" target="_blank">Github</a>
@@ -53,7 +53,12 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 |
 <a href="https://space.bilibili.com/403919468" target="_blank">BiliBili B站</a>
 
-[//]: # (💬 原创项目教程：)
+📓 我的作品：
+<a href="https://github.com/Allen-zc/ToBeTopFullStackDeveloper" target="_blank">SQL生成器</a>
+
+
+
+[//]: # (💬🏬 原创项目教程：)
 
 [//]: # (<a href="https://github.com/liyupi/yuapi-backend-public" target="_blank">API开放平台</a>)
 
@@ -69,15 +74,15 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 [//]: # (<a href="https://github.com/liyupi/user-center-backend-public" target="_blank">用户中心</a>)
 
-👭 知识星球：<a href="https://github.com/Allen-zc" target="_blank">可以帮助你学习编程、做项目、一对一辅导的圈子</a>
+🌐 知识星球：<a href="https://github.com/Allen-zc" target="_blank">可以帮助你学习编程、做项目、一对一辅导的圈子</a>
 
-😺 视频教程 | B站：<a href="https://space.bilibili.com/403919468" target="_blank">B站 程序员Allen</a>
+👨‍💻 视频教程 | B站：<a href="https://space.bilibili.com/403919468" target="_blank">B站 程序员Allen</a>
 
 [//]: # (| 抖音 AllenChen)
 
-🚀 网络书店： <a href="https://mbd.pub/o/author-aGWTlGtlZA==/work" target="_blank">面包多店铺：『 程序员Allen 』</a>
+📕 网络书店： <a href="https://mbd.pub/o/author-aGWTlGtlZA==/work" target="_blank">面包多店铺：『 程序员Allen 』</a>
 
-🤔 有问题请联系公众号 <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">公众号『 程序员AllenChen 』</a>
+👭 有问题请联系公众号 <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">公众号『 程序员AllenChen 』</a>
 
 
 
@@ -88,7 +93,7 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 
 
-## 📓 项目推荐
+## 💼 项目推荐
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=ToBeTopFullStackDeveloper&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/ToBeTopFullStackDeveloper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=guide-rpc-framework&show_owner=Snailclimb&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy )](https://github.com/Allen-zc/guide-rpc-framework)
