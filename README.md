@@ -7,7 +7,7 @@
 
 ## 哈喽~我是程序员AllenChen 👋😀
 
-✨ 相关技能：Java、Python、网络安全、测试、运维、求职、副业、项目、书籍
+✨ 相关技能：Java、Python、前端、后端、网络安全、测试、运维、求职、副业、项目、书籍
 
 🏢 技术分享 | 博客主页： <a href="https://allen-zc.github.io/ToBeTopFullStackDeveloper/" target="_blank">To Be Top Full Stack Developer - 全栈工程师成神之路</a>
 
