@@ -25,9 +25,9 @@
 <a href="https://space.bilibili.com/403919468" target="_blank">BiliBili B站</a>
 
 🚀 我的作品：
-<a href="" target="_blank">SQL生成器</a>
+<a href="" target="_blank">SQL生成器 敬请期待<em>coming soon</em> 🚀...</a>
  |
-<a href="" target="_blank">ChatGPT4 AI平台 敬请期待<em>coming soon</em> 🚀</a>...</a>
+<a href="" target="_blank">ChatGPT4 AI平台 敬请期待<em>coming soon</em> 🚀...</a>
 
 
 
