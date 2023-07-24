@@ -53,21 +53,20 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 ## 统计汇总 ✨
 
-<img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=Allen-zc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=outrun&locale=cn" /><img align="Most Used Languages" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-zc&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=outrun&locale=cn" />
+<img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=Allen-zc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=outrun&locale=cn" /><img align="Allen Chen's Github Stats" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-zc&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=outrun&locale=cn" />
 
 
 
 ## 📓 我的项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=ToBeTopFullStackDeveloper&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/ToBeTopFullStackDeveloper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=JSD2105-SE&show_owner=AllenChen&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy  )](https://github.com/Allen-zc/JSD2105-SE)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=ToBeTopFullStackDeveloper&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/ToBeTopFullStackDeveloper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=ToBeTopFullStackDeveloper&show_owner=AllenChen&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy  )](https://github.com/Allen-zc/ToBeTopFullStackDeveloper)
 
 
-<a href="https://github.com/Allen-zc/Allen-zc.github.io.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=Allen-zc.github.io&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy "/></a>
-<a href="https://github.com/Allen-zc/Allenchenblog.git"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=code-navigation-inn&show_owner=AllenChen&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy "/></a>
-
-<a href="https://github.com/Allen-zc/JSD2105-SE.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=JSD2105-SE&show_owner=AllenChen&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy "/></a>
-<a href="https://github.com/Allen-zc/Allenchenblog.git"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=AllenChenBlog&show_owner=AllenChen&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy "/></a>
 
 
 
