@@ -1,14 +1,13 @@
 <div align="center">
   <a href="https://www.allenchenblog.cn"><img src="images/allen-zc header.png" alt="AllenChen's header"></a>
-
 <br>
 
 [中文](./README.md)|[English](./README.en.md)
 </div>
 
-## 哈喽~我是程序员AllenChen 🌱
+## 哈喽~我是程序员AllenChen 👋😀
 
-✨ 技能：Java、Python
+✨ 相关技能：Java、Python、网络安全、测试、运维、求职、副业、项目、书籍
 
 🏢 技术分享 | 博客主页： <a href="https://allen-zc.github.io/ToBeTopFullStackDeveloper/" target="_blank">To Be Top Full Stack Developer - 全栈工程师成神之路</a>
 
@@ -56,7 +55,7 @@
 
 👭 有问题请联系公众号： <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">公众号『 程序员AllenChen 』</a>
 
-
+🌱 全新项目：<a href="">敬请期待<em>coming soon</em> 🚀</a>...<br>
 
 
 ## 统计汇总 ✨
