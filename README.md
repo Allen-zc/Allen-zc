@@ -3,7 +3,7 @@
 
 <br>
 
-<a href="/REDME.md">中文</a> | <a href="/REDME.en.md">English</a>
+<a href="./REDME.md">中文</a> | <a href="./REDME.en.md">English</a>
 
 <h3>Hi there! 👋😀<br>I'm Allen Chen<br>an I.T , Java Developer, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
 
@@ -34,7 +34,7 @@ WHH Android application:Founder and Developer 🚀 <em>coming soon</em><br>
 
 
 
-## 哈喽~我是AllenChen 🌱
+## 哈喽~我是一苇渡江(AllenChen) 🌱
 
 👬 技能：JAVA、Python
 

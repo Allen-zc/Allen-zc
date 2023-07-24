@@ -3,7 +3,7 @@
 
 <br>
 
-<a>中文</a> | <a>English</a>
+<a href="~/REDME.md">中文</a> | <a href="/REDME.en.md">English</a>
 
 <h3>Hi there! 👋😀<br>I'm Allen Chen<br>an I.T , Java Developer, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
 
