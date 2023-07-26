@@ -59,7 +59,7 @@
 
 👭 If you have any questions, please contact the official account ： <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">公众号『 程序员AllenChen 』</a>
 
-🌱 New Project：<a href="">敬请期待<em>coming soon</em> 🚀</a>...<br>
+🚀 New Project：<a href="">敬请期待<em>coming soon</em> 🚀</a>...<br>
 
 
 ## Statistical Summary ✨
@@ -78,6 +78,38 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=mall&show_owner=macrozheng&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy )](https://github.com/Allen-zc/mall)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=SpringAll&show_owner=wuyouzhuguli&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy  )](https://github.com/Allen-zc/SpringAll)
+
+
+## 🌱 Project Status
+[![Alt](https://repobeats.axiom.co/api/embed/9a968642cb1e7e698d8e5d8cc61f29c747779a31.svg)]()
+
+
+## Contributors
+
+Thanks to all the contributors!
+
+[![contributors](https://contrib.rocks/image?repo=Allen-zc/Allen-zc)](https://github.com/Allen-zc/Allen-zc/tree/master)
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Allen-zc/Allen-zc.svg)](https://starchart.cc/Allen-zc/Allen-zc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
