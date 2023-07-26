@@ -81,6 +81,6 @@
 
 
 ## 项目状况
-![Alt]( https://repobeats.axiom.co/api/embed/9a968642cb1e7e698d8e5d8cc61f29c747779a31.svg“Repobeats 分析图像”)
+[![Alt](https://repobeats.axiom.co/api/embed/9a968642cb1e7e698d8e5d8cc61f29c747779a31.svg)]()
 
 
