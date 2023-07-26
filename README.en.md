@@ -2,7 +2,7 @@
   <a href="https://www.allenchenblog.cn"><img src="images/allen-zc header.png" alt="AllenChen's header"></a>
 <br>
 
-[中文](./README.md)  |  [English](./README.en.md)
+[Chinese](./README.md)  |  [English](./README.en.md)
 </div>
 
 ## Hello, I'm a software engineer AllenChen 👋😀
@@ -22,6 +22,9 @@
  | 
 <a href="https://leetcode-cn.com/u/allenchenchen/" target="_blank">Leetcode</a>
  |
+7/5000
+翻译
+中国人
 <a href="https://space.bilibili.com/403919468" target="_blank">BiliBili</a>
 
 🚀 My Works：
