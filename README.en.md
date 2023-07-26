@@ -5,7 +5,7 @@
 [中文](./README.md)  |  [English](./README.en.md)
 </div>
 
-## Hello, I'm a programmer AllenChen 👋😀
+## Hello, I'm a software engineer AllenChen 👋😀
 
 ✨ Skills：Java Developer、Python Developer、Web Developer、Backend Developer、Network Security、Test Developer、DevOps、Job Hunting、Sideline、Project、Books
 
