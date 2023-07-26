@@ -59,7 +59,7 @@
 
 👭 有问题请联系公众号： <a href="https://www.zhihu.com/people/allen-31-59" target="_blank">公众号『 程序员AllenChen 』</a>
 
-🌱 全新项目：<a href="">敬请期待<em>coming soon</em> 🚀</a>...<br>
+🚀 全新项目：<a href="">敬请期待<em>coming soon</em> 🚀</a>...<br>
 
 
 ## 统计汇总 ✨
@@ -80,7 +80,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allen-zc&repo=SpringAll&show_owner=wuyouzhuguli&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy  )](https://github.com/Allen-zc/SpringAll)
 
 
-## 项目状况
+## 🌱 项目状况
 [![Alt](https://repobeats.axiom.co/api/embed/9a968642cb1e7e698d8e5d8cc61f29c747779a31.svg)]()
 
 
+## 贡献者
+
+感谢所有贡献者！
+
+[![contributors](https://contrib.rocks/image?repo=Allen-zc/Allen-zc)](https://github.com/Allen-zc/Allen-zc/tree/master)
+
+
+<!-- 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Allen-zc/Allen-zc.svg)](https://starchart.cc/Allen-zc/Allen-zc) -->

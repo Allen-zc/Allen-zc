@@ -91,10 +91,10 @@ Thanks to all the contributors!
 [![contributors](https://contrib.rocks/image?repo=Allen-zc/Allen-zc)](https://github.com/Allen-zc/Allen-zc/tree/master)
 
 
-
+<!-- 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Allen-zc/Allen-zc.svg)](https://starchart.cc/Allen-zc/Allen-zc)
+[![Stargazers over time](https://starchart.cc/Allen-zc/Allen-zc.svg)](https://starchart.cc/Allen-zc/Allen-zc) -->
 
 
 
