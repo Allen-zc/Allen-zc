@@ -81,7 +81,7 @@
 
 
 ## 🌱 项目状况
-[![项目状况](https://repobeats.axiom.co/api/embed/9a968642cb1e7e698d8e5d8cc61f29c747779a31.svg)]()
+[![项目状况](https://repobeats.axiom.co/api/embed/9a968642cb1e7e698d8e5d8cc61f29c747779a31.svg)]() 
 
 
 ## 贡献者
@@ -92,6 +92,6 @@
 
 
 <!-- 
-## 随着时间的流逝
+## 随着时间的流逝 
 
 [![随着时间的流逝](https://starchart.cc/Allen-zc/Allen-zc.svg)](https://starchart.cc/Allen-zc/Allen-zc) -->
